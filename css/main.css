@@ -2071,3 +2071,7 @@ ul.sidebar-gallery {
   .journals-container{
     padding: 10px;
   }
+
+  .index-img {
+    min-height: 12vh;
+  }
