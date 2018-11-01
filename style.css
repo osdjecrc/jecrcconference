@@ -178,6 +178,7 @@
 }
 .responsive-table tbody tr {
   margin-bottom: 1em;
+  border: -1px;  
 }
 @media (min-width: 48em) {
   .responsive-table tbody tr {
