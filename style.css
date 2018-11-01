@@ -294,7 +294,7 @@
   padding-top: 30px;
   padding-bottom: 30px;
   color: #fff;
-  background: #000;
+  background: #e1e8ef;
 }
 
 #footer a {
@@ -332,6 +332,7 @@
     background-size: cover;
     max-width:26vw;
     background-image: url(images/CFW500_06.jpg);
+    margin-bottom:10px;
 }
 
 .lc-1{
@@ -342,6 +343,7 @@
     background-size: cover;
     max-width:26vw;
     background-image: url(images/1494333929_CANDLE_20image.jpg);
+    margin-bottom:10px;
 }
 
 
@@ -353,6 +355,7 @@
     background-size: cover;
     max-width:26vw;
     background-image: url(./images/ThinkstockPhotos-606703118.5a680888.fill-750x422.jpg);
+    margin-bottom:10px;
 }
 
 .lc-3{
@@ -363,6 +366,7 @@
     background-size: cover;
     min-width: 15vw;
     background-image: url(images/it_eng.jpg);
+    margin-bottom:10px;
     
     
 }
@@ -375,6 +379,7 @@
     background-size: cover;
     max-width: 27vw;
     background-image: url(images/mathematics.jpg);
+    margin-bottom:10px;
         
 }
 
