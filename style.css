@@ -46,7 +46,9 @@
 .texts {
   width: 100%;
   text-align: center;
-}        
+}  
+.table td,tr,th{
+  border: 2px solid rgb(28, 142, 126);
 
 .container1 {
   margin: 5% 3%;
