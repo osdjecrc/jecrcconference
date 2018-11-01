@@ -404,18 +404,21 @@
 .lc{
     height: 30vh;
     min-width: 63vw;
+    margin-bottom: 10px;
     
 }
 
 .lc-1{
     height: 30vh;
     min-width: 63vw;
+    margin-bottom: 10px;
    
 }
 
 .lc-2{
     height: 30vh;
     min-width: 63vw;
+    margin-bottom: 10px;
    
 }
 
@@ -423,12 +426,14 @@
     height: 30vh;
     max-width: 63vw;
      margin-left: 15vw;
+    margin-bottom: 10px;
     }
 
 .lc-4{
     height: 30vh;
     min-width: 63vw;
     margin-left: 15vw;
+    margin-bottom: 10px;
 }
     }
 
