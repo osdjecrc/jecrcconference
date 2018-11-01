@@ -2495,3 +2495,11 @@ ul.sidebar-gallery {
 .index-img {
   min-height: 12vh;
 }
+    
+    
+    @media only screen and (max-width: 550px) {
+        .journals{
+            width: 10%;
+            height: 175px;
+        }
+    }
